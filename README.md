@@ -1,2 +1,4 @@
 # NextPrimeDate-Android
-App made for /u/toothless_budgie for the lolz
+App made for /u/toothless_budgie for the lolz.
+
+Shows the first 3 dates which are prime in the format ddMMyyy.
