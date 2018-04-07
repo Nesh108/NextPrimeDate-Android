@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NextPrimeDate</string>
+    <string name="update_button">Update</string>
+    <string name="upcoming_prime_date">Upcoming Prime Dates:</string>
+</resources>
